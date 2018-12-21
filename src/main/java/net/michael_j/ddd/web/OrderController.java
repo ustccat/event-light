@@ -1,7 +1,7 @@
 package net.michael_j.ddd.web;
 
 
-import net.michael_j.ddd.application.service.impl.OrderServiceImpl;
+import net.michael_j.ddd.service.application.service.impl.OrderServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
