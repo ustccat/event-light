@@ -1,4 +1,4 @@
-package net.michael_j.ddd.service.application.service;
+package net.michael_j.ddd.api;
 
 /**
  * @author: fuxi

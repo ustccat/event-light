@@ -1,6 +1,6 @@
 package net.michael_j.ddd.service.application.service.impl;
 
-import net.michael_j.ddd.service.application.service.OrderService;
+import net.michael_j.ddd.api.OrderService;
 import net.michael_j.ddd.service.core.order.OrderCreatedEvent;
 import net.michael_j.ddd.service.core.shared.DomainEventPublisher;
 import org.slf4j.Logger;

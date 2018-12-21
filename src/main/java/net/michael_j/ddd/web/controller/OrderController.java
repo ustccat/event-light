@@ -1,4 +1,4 @@
-package net.michael_j.ddd.web;
+package net.michael_j.ddd.web.controller;
 
 
 import net.michael_j.ddd.service.application.service.impl.OrderServiceImpl;
